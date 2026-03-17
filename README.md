@@ -18,8 +18,8 @@ The outcome is a set of commercially driven recommendations designed to optimise
 ---
 ## Rationale for the project
 Time of Day and Traffic Performance Analysis is critical for online retail businesses like BrightCart. Understanding when users visit the website and where they come from enables data-driven marketing and operational strategies.
-Practical Implications:
 
+Practical Implications:
 - Optimized Marketing Campaigns: Aligning email sends, social media posts, and promotions with peak engagement hours increases conversion rates.
 
 - Enhanced Personalization: Tailoring content based on traffic behavior allows for better user experience and improved retention.
