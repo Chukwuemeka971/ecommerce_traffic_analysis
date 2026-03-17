@@ -16,6 +16,39 @@ The analysis focused on user behaviour across multiple dimensions—traffic sour
 The outcome is a set of commercially driven recommendations designed to optimise campaign timing, channel investment, and overall customer engagement.
 
 ---
+## Rationale for the project
+Time of Day and Traffic Performance Analysis is critical for online retail businesses like BrightCart. Understanding when users visit the website and where they come from enables data-driven marketing and operational strategies.
+Practical Implications:
+
+- Optimized Marketing Campaigns: Aligning email sends, social media posts, and promotions with peak engagement hours increases conversion rates.
+
+- Enhanced Personalization: Tailoring content based on traffic behavior allows for better user experience and improved retention.
+
+- Efficient Resource Allocation: Marketing budgets can be directed toward high-performing channels and peak periods.
+ ---
+## Project Scope
+- Data Collection:
+  - Aggregate website traffic data from analytics platforms (Google Analytics, social media, paid ads).
+  - Collect historical conversion data and campaign metadata.
+- Data Cleaning & Preparation:
+  - Standardize timestamp formats to track time of day accurately.
+  - Remove duplicates, correct errors, and validate traffic source information.
+- Analysis & Insights:
+  - Identify peak and low traffic hours and days.
+  - Determine which traffic sources drive the most conversions.
+  - Highlight underperforming traffic channels and suggest improvements.
+- Data Visualization:
+  - Build dashboards showing traffic distribution by hour, day, and traffic source.
+  - Visualize conversion rates by traffic source and time of day.
+  - Segment traffic by demographics, device type, and location.
+- Recommendations:
+  - Optimize email, social media, and paid campaigns according to traffic peaks.
+  - Allocate marketing budgets toward high-conversion channels.
+  - Adjust website updates and promotions to align with peak engagement periods.
+- Reporting:
+  - Deliver executive dashboards and reports using Microsoft Excel.
+  - Present key findings and actionable insights for the marketing and operations teams.
+---
 ## Project Image
 ![](./Image/dashboard.png)
 ## Interactive dashboard
